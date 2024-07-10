@@ -1,11 +1,11 @@
-# EasyPrivateVoting workshop
+# EasyPrivateVoting workshop for Eth CC
 
-Made with v 0.45.1.
+Made with v0.45.1.
 
 Use with node 18 or 20.
 
-To deploy, start the sandbox
+To deploy, start the sandbox, compile, deploy
 
-1. `aztec-nargo compile`
-2. `aztec-builder` codegen target -o src/artifacts
+1. `aztec-sandbox`
+2. `aztec-nargo compile`
 3. `node deploy.mjs`
