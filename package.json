@@ -1,0 +1,19 @@
+{
+  "name": "private_voting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aztec/accounts": "^0.45.1",
+    "@aztec/aztec.js": "^0.45.1",
+    "@types/node": "^20.14.10",
+    "typescript": "^5.5.3"
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
+}
